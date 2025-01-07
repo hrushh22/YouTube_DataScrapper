@@ -2,10 +2,6 @@
 
 A robust Python application for extracting and analyzing YouTube video data at scale, with advanced error handling and resource optimization.
 
-## Author
-**Hrushik Mehta**  
-Email: mehtahrushik1@gmail.com
-
 ## 🚀 Features
 
 - Efficient YouTube data extraction using official API
